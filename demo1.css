@@ -1,0 +1,25 @@
+.border{
+    border: 0px solid rgb(75, 20, 0);
+    color: rgb(91, 165, 42);
+    border-radius: 20px;
+    width: 47%;
+    padding: 10px;
+    height: 300px;
+    background-color: rgb(5, 32, 82);
+    display: inline-block;
+    
+}
+#a{
+    color: rgb(190, 101, 49);
+
+}
+#b{
+    color: rgb(186, 196, 58);
+}
+
+#c{
+    color: rgb(25, 112, 25);
+}
+#d{
+    color: rgb(131, 190, 53);
+}
